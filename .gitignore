@@ -1,0 +1,5 @@
+#Ignore all the log files 
+*.log
+
+#Files to be ignored 
+/amazon_reviews_us_Mobile_Electronics_v1_00.csv
