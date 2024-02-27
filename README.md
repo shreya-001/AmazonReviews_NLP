@@ -102,7 +102,7 @@ The table provides an overview of the performance metrics for classification alg
     </tr>
     <tr>
         <td></td>
-        <td>Vectorization Techniques</td>
+        <td>Vectorization Techniques
     </tr>
     <tr>
         <td></td>
