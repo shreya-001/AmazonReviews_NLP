@@ -96,16 +96,10 @@ The table provides an overview of the performance metrics for classification alg
 
 <table>
     <tr>
-        <td>&quot;Classification  </td>
+        <td>Classification Algorithms</td>
     </tr>
     <tr>
-        <td>Algorithm&quot;</td>
         <td>Vectorization Techniques</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
     </tr>
     <tr>
         <td></td>
